@@ -1,0 +1,13 @@
+body{ background-color: 
+rgb(110, 112, 240); } nav{ background: 
+#aae6f5; width: 100%; overflow: 
+auto;
+ul{ margin:0; 
+    padding:0; 
+    liststyle: none; } 
+    li{ float: 
+    left; 
+    } nav a{ width: 120px; textdecoration: 
+    none; font-size: 17px; font-family: Arial; color: azure; 
+    margin: 10px; 
+    }
